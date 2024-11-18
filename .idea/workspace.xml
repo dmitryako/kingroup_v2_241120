@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="feef39f1-ea43-4061-916b-a2a028b6e3cb" name="Changes" comment="mac24: first run">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/kingroup_v2_241120_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kingroup_v2_241120.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kingroup_v2_241120.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsvlib_java/javax/webstart/webstart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsvlib_java/javax/webstart/webstart.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090205_KinshipWithLikelihoods.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090205_TestingSample.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090212_UniquePairs.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090218_AlleleFreqsFromSample.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090220_BiasDueToSampleFreqs.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090501_HypothesisTesting.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_FSR_example_2008.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_FSR_example_with_HalfSibs.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KINGROUP_v2_Manual_ch1_080212.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KINGROUP_v2_Manual_ch1_080212.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KINGROUP_v2_Manual_ch2_080520.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KINGROUP_v2_Manual_ch2_080520.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KinshipManual.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KinshipManual.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_SimulatedKinshipPairs.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/kingroup_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/kingroup_v2_090204d.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/kingroup_v2_090218.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/kingroup_v2_test_dev.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_KINSHIP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_KonovalovHeg2008_apbc013a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_KonovalovHeg_2008_MolEcolRes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_Konovalov_2004_MolEcologyNotes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_Konovalov_2005_Bioinf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_Konovalov_2005_Bioinf_Appendix.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_Konovalov_2005_Bioinf_MS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_Konovalov_2006_APBC2006.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www_kingroup_org/tools/web_start/example_uidl.jnlp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/fsr/FsrLimitEmpiricalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/fsr/bound/FsrLBoundApproxGSOneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/fsr/bound/FsrLowerBoundGailTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/kinship/KinshipDiploidCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/kinship/KinshipFileReaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/kinship/KinshipRMaxLikeMtrxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/kinship/like/KinshipLikeCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/kinship/like/KinshipRMaxLikeEstimatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/like/milligan/MilliganDiploidLikeCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/like/thompson/ThompsonDiploidLikeCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/partition/jw/JWAlgTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/partition/jw/JWAlg_v2_HapDipTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/partition/jw/JWAlg_v2_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/partition/ms/MSAlgGroupsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/partition/simpson/genotype_dist/GenotypeDistAlgTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/pop/allele/freq/SimilarityIndexTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/pop/allele/freq/SysAlleleFreqRandomFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/pop/sample/sys/SysPopFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/pop/sample/sys/SysPopNullHypothesisFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsvlib_junit/algorithm/Func2DViewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsvlib_junit/algorithm/HillClimber1DTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsvlib_junit/algorithm/HillClimber2DGradientTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsvlib_junit/algorithm/HillClimber2DTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsvlib_junit/javax/mathx/MathXTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsvlib_junit/javax/utilx/arrays/DoubleArrTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsvlib_junit/javax/utilx/arrays/mtrx/MtrxSplitFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsvlib_junit/javax/utilx/bitset/BitSetFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsvlib_junit/tomsk/io/pdb/PDBReaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsvlib_junit/tsvlib/visualization/ContourMapTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dmitryako"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dmitryako/kingroup_v2_241120.git",
+    "accountId": "44e8f143-de34-4150-a1e7-da2597fb65bd"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2p0bz5ooCpLPNwObjJNFtYLKBpS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AllTests.executor": "Run",
+    "Application.KinGroupV2.executor": "Run",
+    "Application.KinGroupV2Startup.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jc138691/dev/kingroup_v2_241120",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tsvlib_java/javax" />
+      <recent name="$PROJECT_DIR$/tsvlib_java" />
+      <recent name="$PROJECT_DIR$/tsvlib_java/numeric" />
+      <recent name="$PROJECT_DIR$/kingroup_v2_java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Jama_src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KinGroupV2">
+    <configuration name="AllTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllTests" />
+      <module name="kingroup_v2_241120" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KinGroupV2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="kingroup_v2.KinGroupV2Startup" />
+      <module name="kingroup_v2_241120" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KinGroupV2Startup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kingroup_v2.KinGroupV2Startup" />
+      <module name="kingroup_v2_241120" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kingroup_v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.KinGroupV2" />
+      <item itemvalue="Application.AllTests" />
+      <item itemvalue="Application.KinGroupV2Startup" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KinGroupV2Startup" />
+        <item itemvalue="Application.AllTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feef39f1-ea43-4061-916b-a2a028b6e3cb" name="Changes" comment="" />
+      <created>1731906199718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731906199718</updated>
+      <workItem from="1731906200757" duration="4187000" />
+    </task>
+    <task id="LOCAL-00001" summary="mac24">
+      <option name="closed" value="true" />
+      <created>1731906223306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731906223306</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mac24: copied all kingroup dirs">
+      <option name="closed" value="true" />
+      <created>1731906422146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731906422146</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mac24: first run">
+      <option name="closed" value="true" />
+      <created>1731908850342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731908850342</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="mac24" />
+    <MESSAGE value="mac24: copied all kingroup dirs" />
+    <MESSAGE value="mac24: first run" />
+    <option name="LAST_COMMIT_MESSAGE" value="mac24: first run" />
+    <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
+  </component>
+</project>
