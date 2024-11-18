@@ -5,8 +5,8 @@ import kingroup_v2.kinship.CalculatorI;
 import kingroup_v2.kinship.KHDistSqrEstimator;
 import kingroup_v2.kinship.KingroupREstimV2;
 import kingroup_v2.kinship.KinshipREstimator;
-import kingroup_v2.kinship.like.KinshipRMaxLikeEstimator;
-import kingroup_v2.kinship.like.MilliganREstimator;
+//import kingroup_v2.kinship.like.KinshipRMaxLikeEstimator;
+//import kingroup_v2.kinship.like.MilliganREstimator;
 import kingroup_v2.lynch.REstimator_LR;
 import kingroup_v2.pop.sample.sys.SysPop;
 
@@ -26,11 +26,11 @@ public class PairwiseREstimatorFactory
   }
 
   public static CalculatorI makeREstimator(SysPop sysPop, int type) {
-    if (type == Kingroup.PAIRWISE_R_KINSHIP_ML)
-      return new KinshipRMaxLikeEstimator(sysPop);
-
-    if (type == Kingroup.PAIRWISE_R_MILLIGAN)
-      return new MilliganREstimator(sysPop);
+//    if (type == Kingroup.PAIRWISE_R_KINSHIP_ML)
+//      return new KinshipRMaxLikeEstimator(sysPop);
+//
+//    if (type == Kingroup.PAIRWISE_R_MILLIGAN)
+//      return new MilliganREstimator(sysPop);
 
     if (type == Kingroup.PAIRWISE_R_LR)
       return new REstimator_LR(sysPop);
