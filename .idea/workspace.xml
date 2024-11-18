@@ -5,74 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feef39f1-ea43-4061-916b-a2a028b6e3cb" name="Changes" comment="mac24: first run">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/kingroup_v2_241120_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kingroup_v2_241120.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kingroup_v2_241120.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsvlib_java/javax/webstart/webstart.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsvlib_java/javax/webstart/webstart.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090205_KinshipWithLikelihoods.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090205_TestingSample.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090212_UniquePairs.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090218_AlleleFreqsFromSample.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090220_BiasDueToSampleFreqs.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_090501_HypothesisTesting.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_FSR_example_2008.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_FSR_example_with_HalfSibs.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KINGROUP_v2_Manual_ch1_080212.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KINGROUP_v2_Manual_ch1_080212.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KINGROUP_v2_Manual_ch2_080520.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KINGROUP_v2_Manual_ch2_080520.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KinshipManual.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_KinshipManual.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/help_SimulatedKinshipPairs.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/kingroup_logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/kingroup_v2_090204d.jnlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/kingroup_v2_090218.jnlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/kingroup_v2_test_dev.jnlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_KINSHIP.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_KonovalovHeg2008_apbc013a.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_KonovalovHeg_2008_MolEcolRes.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_Konovalov_2004_MolEcologyNotes.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_Konovalov_2005_Bioinf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_Konovalov_2005_Bioinf_Appendix.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_Konovalov_2005_Bioinf_MS.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/googlecode/pdf_Konovalov_2006_APBC2006.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www_kingroup_org/tools/web_start/example_uidl.jnlp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/fsr/FsrLimitEmpiricalTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/fsr/bound/FsrLBoundApproxGSOneTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/fsr/bound/FsrLowerBoundGailTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/kinship/KinshipDiploidCalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/kinship/KinshipFileReaderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/kinship/KinshipRMaxLikeMtrxTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/kinship/like/KinshipLikeCalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/kinship/like/KinshipRMaxLikeEstimatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/like/milligan/MilliganDiploidLikeCalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/like/thompson/ThompsonDiploidLikeCalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/partition/jw/JWAlgTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/partition/jw/JWAlg_v2_HapDipTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/partition/jw/JWAlg_v2_Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/partition/ms/MSAlgGroupsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/partition/simpson/genotype_dist/GenotypeDistAlgTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/pop/allele/freq/SimilarityIndexTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/pop/allele/freq/SysAlleleFreqRandomFactoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/pop/sample/sys/SysPopFactoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kingroup_v2_junit/kingroup_v2/pop/sample/sys/SysPopNullHypothesisFactoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsvlib_junit/algorithm/Func2DViewTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsvlib_junit/algorithm/HillClimber1DTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsvlib_junit/algorithm/HillClimber2DGradientTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsvlib_junit/algorithm/HillClimber2DTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsvlib_junit/javax/mathx/MathXTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsvlib_junit/javax/utilx/arrays/DoubleArrTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsvlib_junit/javax/utilx/arrays/mtrx/MtrxSplitFactoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsvlib_junit/javax/utilx/bitset/BitSetFactoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsvlib_junit/tomsk/io/pdb/PDBReaderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsvlib_junit/tsvlib/visualization/ContourMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731906199718</updated>
-      <workItem from="1731906200757" duration="4187000" />
+      <workItem from="1731906200757" duration="5516000" />
     </task>
     <task id="LOCAL-00001" summary="mac24">
       <option name="closed" value="true" />
@@ -219,7 +153,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731908850342</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mac24: first run">
+      <option name="closed" value="true" />
+      <created>1731910401392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731910401392</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mac24: first run">
+      <option name="closed" value="true" />
+      <created>1731910935660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731910935660</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
