@@ -6,7 +6,7 @@ Download [kingroup_v2_241120.jar](kingroup_v2_241120.jar).
 Then run in a command line:
 It was compiled with "Oracle OpenJDK 23.0.1 - aarch64" on a macbook.
 
-java -jar MyApp.jar
+java -jar kingroup_v2_241120.jar
 
 # Manual compile
 Download IntelliJ. See example of the project in [.idea](.idea)
