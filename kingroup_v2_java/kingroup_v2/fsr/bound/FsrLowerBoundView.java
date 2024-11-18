@@ -47,16 +47,16 @@ public class FsrLowerBoundView extends GridBagView {
   private void init()
   {
     // POPULATION SAMPLE
-    nGroups = new IntField(FIELD_SIZE, 1, 50);
+    nGroups = new IntField(FIELD_SIZE, 1, 500);
     nGroupsLbl = new JLabel("groups");
-    groupSize = new IntField(FIELD_SIZE, 1, 50);
+    groupSize = new IntField(FIELD_SIZE, 1, 500);
     groupSizeLbl = new JLabel("group size");
     groupSizeLbl.setToolTipText("individuals in each group");
 
     // GENOTYPE
     nLoci = new IntField(FIELD_SIZE, 1, 1, 3);
     nLociLbl = new JLabel("loci");
-    nAlleles = new IntField(FIELD_SIZE, 10, 1, 50);
+    nAlleles = new IntField(FIELD_SIZE, 10, 1, 500);
     nAllelesLbl = new JLabel("alleles");
     nAllelesLbl.setToolTipText("at each locus");
 
